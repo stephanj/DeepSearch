@@ -11,6 +11,18 @@ An AI-powered research assistant that performs comprehensive web searches across
 - Concurrent web scraping with retry mechanisms
 - Structured output in Markdown format
 
+## How It Works?  
+
+- **Generates** nine sub-queries using OpenAI's ChatGPT.  
+- **Distributes** them across search engines: three queries are searched on Google, three on Bing, and three on Yahoo.  
+- **Aggregates** all retrieved content and **processes** it with Google Gemini to generate a comprehensive research report.  
+
+### Missing Features 
+
+- [ ] Support YouTube transcripts
+- [ ] Support online PDF documents
+- [ ] Support scraping of Reddit pages
+
 ## Prerequisites
 
 - Java 17+
