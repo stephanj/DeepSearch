@@ -17,6 +17,8 @@ An AI-powered research assistant that performs comprehensive web searches across
 - **Distributes** them across search engines: three queries are searched on Google, three on Bing, and three on Yahoo.  
 - **Aggregates** all retrieved content and **processes** it with Google Gemini to generate a comprehensive research report.  
 
+Example on the following query : [How to use search and AST to improve RAG for large codebases?](https://github.com/stephanj/DeepSearch/blob/master/examples/howtousesearchandasttoimproveragforlargecodebases-20250205_215207.md)
+
 ### Missing Features 
 
 - [ ] Support YouTube transcripts
