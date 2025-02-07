@@ -1,4 +1,4 @@
-# DeepSearch
+# DeepSearch Experimental
 
 An AI-powered research assistant that performs comprehensive web searches across multiple search engines and analyzes results using LLMs.
 
