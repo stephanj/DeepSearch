@@ -53,7 +53,7 @@ GENERATE_SUMMARIES=false
 
 1. Clone the repository
 2. Install dependencies with Maven
-3. Install Ollama and the llama3.1 model
+3. Install Ollama and the llama3.1 model (optional)
 4. Set up environment variables
 
 ## Usage
